@@ -15,7 +15,24 @@ I am late.  I had given myself a drop-dead, end-of-the-plank ultimatum to have t
 My best recollection is that sometime in the very last week of June, let’s say June 25, 2013, I noticed some dust on the floor.
 
 Anyone who knows me will be quite surprised that I noticed my floor or anything on it.  I have a very high tolerance for clutter and chaos, much to the chagrin of sensible people, like yourself.  But this dust was part of my Grand Experiment.
+
 My Grand Experiment was to honor a Mission Statement that I posted on my wall, and read everyday.  I had written it months earlier when I decided where to focus my energies:  I want a better Saipan.  I live here.  And I wanted to do it with Bamboo. Because.
+
+> #The Mission Statement
+> *Goal:* Economic undependance for the CNMI, broad spetrum acceptance of the CNMI as economic, social and political entity
+> 
+> Cultural theme “Where East Meets West”
+> 
+> Bamboo as first vehicle
+> * charcoal
+> * crafts
+> * construction
+> Environmental gains
+> * mosquito control
+> * biochar
+> * soil and water remediation (there are still remnants of WWII in the soil of Saipan)
+> Energy undependance to reduce oil imports
+> Construction — replace rust-prone rebar with bamboo equivalent
 
 On Saipan, Bamboo grows wild, mostly.  If a farmer has bamboo growing on the land, that land is unproductive, at least in western terms: Our western technologies are stumped by the utility of bamboo.  We prefer big slabs of trees to do much of our building.  Bamboo requires craftsmen. Craftsmen are the exact opposite of mass production, and we have masses of bamboo.  Bamboo crafts depend on local supplies: There are no local supplies of bamboo in europe, and very very few in North America.  So western mass production grew up without bamboo.
 
@@ -36,6 +53,9 @@ My range of experiments was ad-hoc, limited by available materials and done most
 _Liquids:_ Bamboo Snow is dry and thirsty.  It will absorb any liquid it touches instantly.  Oil on the floor? Soaked up and ready to sweep into a pan instantly.  Bamboo Snow will absorb up to  times it’s weight in oil, and if that wasn’t enough, you can add another three times that original weight with water.  The result is a soft ball that holds it’s shape.  If left to dry, the ball remains, but the water is gone.  The oil, may or may not evaporate, but will be contained in the mass.
 
 Bamboo Snow turns household water, oils or glue into a putty that can be hand molded and can take any shape.  And, no matter what the liquid is, adding more bamboo snow will break up residual putty that sticks to your hands or work. Bamboo snow makes project clean-up easier.  When the glue is dry, the result can be sanded, cut, drilled, stained or painted.
+
+> Now I know that some of you good readers may remark: “no matter what the liquid is?  What if the liquid is boiling hydrocloric acid? Ha!”
+> Let me respond that you would need to be willing to touch the liquid in question.  As far as strong acids or bases are concerned, more research is needed. *Send money.*
 
 When the liquid is water, any minerals will remain in the bamboo snow ball and will give it some amount of strength.  The result will not shrink or swell, hot or cold, wet or dry.  Blocks made with 1/2 Plaster of Paris and 1/2 Bamboo Snow do not burn, but will wick up both petroleums and water.
 
