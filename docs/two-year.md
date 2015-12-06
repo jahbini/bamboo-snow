@@ -66,6 +66,8 @@ _Biomass:_ The missing ingredient is orgnic matter — biomass.  nearly anything
 
 Let me start with the obvious: do not put it in your eyes or lungs.  Just don’t.  If it gets in your eyes, flush with water. Wear a face mask if you need to.  Occaisional exposure to small quantities do not seem to have lingering effects.  Virgin Bamboo Snow is dust, and behaves just as any finely divided substance.  It is slightly heavier than water, and will clear from the air within a minute or so.
 
+Just as obvious, Bamboo Snow is not a sexual lubricant.  Casual contact with Bamboo Snow on these parts during showering is OK, but sex would be very uncomfortable for the man.  Erection may be impossible due to the texture of bamboo snow.
+
 The historical record is important: Over 1/2 of the human population has lived in bamboo structures for the last several millenium.  These people in Asia, India, Africa and Oceanea do not report any major illnesses from exposure to the natural decay of these structures.  Allergies to bamboo are rare.
 
 First hand experience with this form of bamboo is limited to my personal experiences of the last two years, when I started to use bamboo snow daily to obtain all the following facts:  Bamboo Snow is tolerated by skin, mucus membranes, hair.  It has no known food value, but small quantities taken orally have no ill effect.  It can be used as a dentifrice. Bamboo snow has a very slightly woody taste, after heating to 240F, it develops a nuttier flavor.
@@ -76,24 +78,26 @@ In two years experience bamboo snow performs well for all these tasks: it cleans
 
 ##Economic Impact:
 *  possible uses in construction: filler for interior wallboard, craft uses, adds bulk and enhances workability and surface properties for silicone and urea-formaldehyde cements.
+
 *  Uses in crafts: bamboo snow enhances the characteristics of several common glues, giving these glues additional workability, adhesion, durability and the resulting surface can be sanded, painted or stained.
+
 *  Uses in electronics: contact cleaner, circuit board cleaner, dehydrator. Bamboo Snow is an electrical insulator.
 
 *  Uses for cleaning household items: Bamboo Snow, when used dry or with even slight amounts of solvents cleans any smooth surface.  This includes soft plastics, hard plastics, glass, and metal.  Dinnerware, utensils and cooking dishes can be cleaned with bamboo snow. When rinsing is indicated, the waste bamboo snow rinses away easily.
 
 *  Personal care: bamboo snow when used dry will remove sweat, grime and oils from hands and skin.  It rinses easily from any surface except fabric.  I can report there has been no significnt reaction to the continued use of bamboo snow for two years.  Coupled with the fact that untold millions of people have been continually exposed to bamboo snow for millenia, the result is rather clear: Bamboo Snow has entirely beneficial and useful properties.
 
-Bamboo Snow can be used as a dentifrice.
+   Bamboo Snow can be used as a dentifrice.
 
-Bamboo snow can be combined with camphor or other aromatic oils to make body powders. Bamboo Snow can be used on the hair and scalp to keep natural oils under control, and to hasten drying, as well as removing tangles.
+   Bamboo snow can be combined with camphor or other aromatic oils to make body powders. Bamboo Snow can be used on the hair and scalp to keep natural oils under control, and to hasten drying, as well as removing tangles.
 
 *  Garments and pillows: A vest has been made with bamboo snow between layers of finely woven cloth: This vest provides personal “climate control” — it not only will keep the bady warm in the cold, but will absorb the sweat from your skin when you are playing Rugby in the 85F, 85% humidity of Tropical Saipan.  It will be warm when you go into a cold place, and it will be pleasantly cool when you go into a warm place.
 
-In the same way, a sweatband made of bamboo snow will keep the sweat off your brow and out of your eyes.
+   In the same way, a sweatband made of bamboo snow will keep the sweat off your brow and out of your eyes.
 
-A small mat with bamboo snow inside makes a useful pillow for travelers: it will absorb sweat and provide comfort in waiting for take off and landing.  It can be dampened and heated in a microwave to provide warmth, or placed in the freezer to make a cold pack.
+   A small mat with bamboo snow inside makes a useful pillow for travelers: it will absorb sweat and provide comfort in waiting for take off and landing.  It can be dampened and heated in a microwave to provide warmth, or placed in the freezer to make a cold pack.
 
-In all of these uses, it is important to note that these garments, mats or pillows must breathe: Any odor or sweat that is absorbed will also leave over time.  These items should never be placed in a closed container unless free of volitile material.  Hang it up in the open air daily.
+   In all of these uses, it is important to note that these garments, mats or pillows must breathe: Any odor or sweat that is absorbed will also leave over time.  These items should never be placed in a closed container unless free of volitile material.  Hang it up in the open air daily.
 
 *  Emergency uses: Styptic: will stop bleeding from small cuts.  Bamboo snow will remove oils from peppers or other chemicals from the mouth.  Dehydrator for electronics.
 
