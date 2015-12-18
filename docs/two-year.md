@@ -141,3 +141,4 @@ Bamboo Snow is useful.  It is very easy to produce, and can be done wherever bam
 Lastly and most important: to get started with Bamboo Snow, you need no licenses, patents, encumbrances or certifications.  If you have access to a dry, clean area and access to living bamboo, you have all you need.
 
 Do it!
+notebooks://show/resources/AnobiidBody.jpeg
