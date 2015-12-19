@@ -8,8 +8,8 @@ Bamboo Can Do, LLC
 December 2, 2015
 
 
-##Two Years Experience with Bamboo Snow
-###Rags to Riches, Lemons to Lemonade, Shit to Super Cleanser, Dust to Water Saver, Destruction to Continuation
+## Two Years Experience with Bamboo Snow
+### Rags to Riches, Lemons to Lemonade, Shit to Super Cleanser, Dust to Water Saver, Destruction to Continuation
 *Let me start off with an apology.*
 I am late.  I had given myself a drop-dead, end-of-the-plank ultimatum to have this finished by July 22, 2015.  Unfortunately, I had been given my come-uppance this year by Mother Nature and Uncle Internet.  On my island universe of Saipan, the entire internet was down for three weeks during  July because of a broken underwater fiber-optic cable.  As soon as service was restored, a major storm, Typhoon Soudelar, wiped out water, power and mosst communications over the entire island.  A month or so later, another typhoon blew out my very nice printer.   I’m sorry, Mz Stitt and Mz Eggleston and Mz Loren for not having my assignment done.  I know they are tut-tutting from some celestial pedestal.
 
@@ -20,7 +20,7 @@ Anyone who knows me will be quite surprised that I noticed my floor or anything 
 
 My Grand Experiment was to honor a Mission Statement that I posted on my wall, and read everyday.  I had written it months earlier when I decided where to focus my energies:  I want a better Saipan.  I live here.  And I wanted to do it with Bamboo. Because.
 
-> #The Mission Statement
+> # The Mission Statement
 > *Goal:* Economic undependance for the CNMI, broad spetrum acceptance of the CNMI as economic, social and political entity
 > 
 > Cultural theme “Where East Meets West”
@@ -29,12 +29,12 @@ My Grand Experiment was to honor a Mission Statement that I posted on my wall, a
 > * charcoal
 > * crafts
 > * construction
-> Environmental gains
-> * mosquito control
-> * biochar
-> * soil and water remediation (there are still remnants of WWII in the soil of Saipan)
-> Energy undependance to reduce oil imports
-> Construction — replace rust-prone rebar with bamboo equivalent
+> * Environmental gains
+> ** mosquito control
+> ** biochar
+> ** soil and water remediation (there are still remnants of WWII in the soil of Saipan)
+> * Energy undependance to reduce oil imports
+> * Construction — replace rust-prone rebar with bamboo equivalent
 
 On Saipan, Bamboo grows wild, mostly.  If a farmer has bamboo growing on the land, that land is unproductive, at least in western terms: Our western technologies are stumped by the utility of bamboo.  We prefer big slabs of trees to do much of our building.  Bamboo requires craftsmen. Craftsmen are the exact opposite of mass production, and we have masses of bamboo.  Bamboo crafts depend on local supplies: There are no local supplies of bamboo in europe, and very very few in North America.  So western mass production grew up without bamboo.
 
@@ -49,7 +49,7 @@ I bent down, picked up a pinch of this Bamboo Snow and rubbed some on my hands. 
 
 Realizing that this stuff might have many uses, in the months that followed I did many, many strange things with Bamboo Snow — I wet it, froze it, mixed it with oils, lighter fluid, put it in containers and waited for it to smell or decay.  Every experiment geve me new insight into what this stuff could do.  And it does some amazing stuff.
 
-##The Four Elements: Air, Earth, Fire and Water
+## The Four Elements: Air, Earth, Fire and Water
 My range of experiments was ad-hoc, limited by available materials and done mostly under normal air pressure and temperatures, but most of all, driven by safety concerns: When I first touched a match to this stuff, I was twenty feet away.  But as time progressed, I learned Bamboo Snow was predictable, effective and safe in several useful and entirely different ways.  I will group these learnings with how bamboo snow responds to the ancient four elements Air, Earth, Fire and water — In modern terms, how it responds to gasses, solids, temperature, and liquids.
 
 _Liquids:_ Bamboo Snow is dry and thirsty.  It will absorb any liquid it touches instantly.  Oil on the floor? Soaked up and ready to sweep into a pan instantly.  Bamboo Snow will absorb up to  times it’s weight in oil, and if that wasn’t enough, you can add another three times that original weight with water.  The result is a soft ball that holds it’s shape.  If left to dry, the ball remains, but the water is gone.  The oil, may or may not evaporate, but will be contained in the mass.
@@ -98,7 +98,7 @@ Bamboo snow combines well with camphorated oils to make an effective body powder
 
 In two years experience bamboo snow performs well for all these tasks: it cleans thoroughly, has a very slightly abrasive quality that is tolerated on the most sensitive parts and welcome on the less sensitive.
 
-##Economic Impact:
+## Economic Impact:
 *  possible uses in construction: filler for interior wallboard, craft uses, adds bulk and enhances workability and surface properties for silicone and urea-formaldehyde cements.
 
 *  Uses in crafts: bamboo snow enhances the characteristics of several common glues, giving these glues additional workability, adhesion, durability and the resulting surface can be sanded, painted or stained.
@@ -123,7 +123,7 @@ In two years experience bamboo snow performs well for all these tasks: it cleans
 
 *  Emergency uses: Styptic: will stop bleeding from small cuts.  Bamboo snow will remove oils from peppers or other chemicals from the mouth.  Dehydrator for electronics.
 
-#How to make Bamboo Snow:
+# How to make Bamboo Snow:
 
 Really easy: nature does all the work.
 1. cut fresh bamboo, split
@@ -143,4 +143,3 @@ Bamboo Snow is useful.  It is very easy to produce, and can be done wherever bam
 Lastly and most important: to get started with Bamboo Snow, you need no licenses, patents, encumbrances or certifications.  If you have access to a dry, clean area and access to living bamboo, you have all you need.
 
 Do it!
-notebooks://show/resources/AnobiidBody.jpeg
