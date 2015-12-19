@@ -8,7 +8,7 @@ Bamboo Can Do, LLC
 December 8, 2015
 
 
-##Analysis of Products from Bamboo Snow
+## Analysis of Products from Bamboo Snow
 # Possible Products
 ## Least processing, Least cost packaging.
 * *Craft Powder:*  Clean, sifted bamboo snow can be packaged as an aid to crafting or repair.  It makes a great filler for any kind of glue:  With sufficient bamboo snow, the mass turns into a putty that is easily shaped and molded by hand.  When dry, the bamboo snow on the surface of the putty can be painted.  In addition, the surface will have enough "tooth" so that it can be glued later.
