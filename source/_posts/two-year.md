@@ -1,4 +1,11 @@
 title: Two Years with Bamboo Snow
+categories:
+ - General
+Tags:
+ - Testimonial
+ - Economic impact
+date: 2015/12/2
+comments: true
 ---
 # bamboo-snow
 The open source documentation project for information regarding the natural substance: Bamboo Snow
