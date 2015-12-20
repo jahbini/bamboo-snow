@@ -1,4 +1,14 @@
 title: Saipan Market Potentials
+date: 2015/12/8
+author: James A. Hinds
+categories:
+ - economic
+ - Saipan
+tags:
+ chamorro
+ demographics
+ carolinian
+ tourist
 ---
 The open source documentation project for information regarding the natural substance: Bamboo Snow
 

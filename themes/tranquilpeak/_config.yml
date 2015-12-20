@@ -46,10 +46,10 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: GitHub
-        #     url: https://github.com/
-        #     icon: github
+        github:
+            title: GitHub
+            url: https://github.com/jahbini
+            icon: github
         # stack_overflow:
         #     title: Stack Overflow
         #     url: http://stackoverflow.com/users/
@@ -66,19 +66,18 @@ sidebar:
         #     title: Google +
         #     url: https://plus.google.com/
         #     icon: google-plus
-        # linked_in:
-        #     title: Linked In
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
+        linked_in:
+            title: Linked In
+            url: https://www.linkedin.com/jimhinds/
+            icon: linkedin
         # mail:
         #     title: Mail
         #     url: mailto:
         #     icon: envelope-o
-    rss:
-        rss:
-            title: RSS
-            url: /atom.xml
-            icon: rss
+rss:
+  title: RSS
+  url: /atom.xml
+  icon: rss
 
 # Header configuration
 # The link at the right of the header is customizable

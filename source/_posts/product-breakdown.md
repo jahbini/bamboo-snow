@@ -1,4 +1,7 @@
 title: Product Breakdown
+author: James A. Hinds (Bamboo Jim)
+date: 2015/12/8
+comments: true
 ---
 # product-breakdown
 The open source documentation project for information regarding the natural substance: Bamboo Snow
