@@ -1,14 +1,16 @@
 title: Saipan Market Potentials
-date: 2015/12/8
 author: James A. Hinds
 categories:
- - economic
- - Saipan
+  - economic
+  - Saipan
 tags:
- chamorro
- demographics
- carolinian
- tourist
+  - chamorro
+  - demographics
+  - carolinian
+  - native
+  - other
+  - tourist
+date: 2015-12-08 00:00:00
 ---
 The open source documentation project for information regarding the natural substance: Bamboo Snow
 
@@ -60,13 +62,6 @@ Camorros started coming back about the time of the Spanish-American war.  They a
 ## Marketplace analysis
 Lack of effective communications to local residents is a big deal:  A poster at the laundromat would reach the largest group.  Language difficulties present the biggest hurdle with this approach.  Newspapers "could" get to local investors, if the product was right.  The tourist marketplace is most easily targeted by the one or two craft shops in the hotel district.  If a product started selling to this market, the volume could be large.
 
-Saipan is poor.  The closest thing you might compare it to is Appalachia or Dogpatch with smartphones and new cars.  Local crafts are not prevalent:  Crafting is often regarded as merely something to keep prison inmates busy.
+Saipan is poor.  The closest thing you might compare it to is Appalachia or Dogpatch with smartphones and new cars.
 
-# Possible Products
-
-* *Craft Powder:*  Clean, sifted bamboo snow can be packaged as an aid to crafting or repair.  It makes a great filler for any kind of glue:  With sufficient bamboo snow, the mass turns into a putty that is easily shaped and molded by hand.  When dry, the bamboo snow on the surface of the putty can be painted.  In addition, the surface will have enough "tooth" so that it can be glued later.
-
-  This form could be sold even locally at "Ace Hardware."
-
-  The craft powder requires the least processing to achieve a viable product.  The major expenses would be packageing, marketing and shipping.  A oatmeal sized container could return $10 to $15 dollars at the retail (mainland) level.  A small package of an ounce would be enough for several small repairs and might fetch three dollars. 
-> 
+Small shops and restaraunts are likely to be run by non-native populations: Local crafts are not prevalent:  Crafting is often regarded as merely something to keep prison inmates busy.
