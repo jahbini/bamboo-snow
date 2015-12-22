@@ -82,3 +82,5 @@ feed:
   path: atom.xml
   limit: 4
 
+markdown: default
+
