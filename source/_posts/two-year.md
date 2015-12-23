@@ -7,6 +7,8 @@ Tags:
 date: 2015/12/2
 comments: true
 ---
+A testimonial of observations of the substance Bamboo Snow, the natural decay product of bamboo on the island of Saipan
+<-! excerpt ->
 # bamboo-snow
 The open source documentation project for information regarding the natural substance: Bamboo Snow
 
