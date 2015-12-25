@@ -1,30 +1,36 @@
 title: vest
 tags:
-  - stuffing
+  - climate control
+  - no sweat
 categories:
   - products
+  - soft-goods
+  - wearables
 date: 2015-12-22 06:16:00
+thumbnailImage: vest1-t.jpg
 ---
 # Climate Busting Vest
+Bamboo Snow also breathes --- it will absorb the sweat from your body and keep you and your clothes dry when the humidity rises.
+<!-- excerpt -->
+
+{% image vest1 left fancybox vest1.jpg vest1-t.jpg 100px 150px "reversable vest- black out" %}
+{% image vest2 right own fancybox vest2.jpg vest2-t.jpg 100px 150px "reversable vest - white out" %}
 A vest made with a one quarter to one half inch of bamboo snow filling absorbs sweat far better than cotton.
 
 Bamboo Snow is an excellent thermal insulator, and keeps you warm in the cold, and cool in the heat.
 
 Bamboo Snow also breathes --- it will absorb the sweat from your body and keep you and your clothes dry when the humidity rises.
 
+{% image vest3 right fancybox vest3.jpeg vest3-t.jpeg 320px 240px "climate control vest" %}
 The vest was tested by several island residents, including two athletes who used it during training: all confirmed the utility of the vest.
 
 
-{% img vest1 left /bamboo-snow/images/vest1.jpg 60 80 %}
-{% img vest2 right /bamboo-snow/images/vest2.jpg /bamboo-snow/images/vest1-t.jpg 60 80 %}
 
 ## Production Facts
-{% alert danger no-icon %}
-vest requires a simple pattern
-
-Here is a danger alert without icon
+{% alert caution %}
+vest requires a simple work pattern, prototype was formal cut
+vest design must have effective means to keep bamboo snow immobile, prototype did not.
 {% endalert %}
-vest design must have effective means to keep bamboo snow immobile.
 
 cloth must be very fine weave or knit to prevent leakage of bamboo snow.
 Packaging of the vest is not needed, although clear labeling is.
