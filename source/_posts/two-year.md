@@ -1,10 +1,10 @@
 title: Two Years with Bamboo Snow
 categories:
- - General
+ - general
 Tags:
- - Testimonial
- - Economic impact
-date: 2015/12/2
+ - testimonial
+ - economic impact
+date: 2015/12/25
 comments: true
 ---
 A testimonial of observations of the substance Bamboo Snow, the natural decay product of bamboo on the island of Saipan

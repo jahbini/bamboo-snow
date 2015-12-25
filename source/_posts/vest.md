@@ -2,11 +2,11 @@ title: vest
 tags:
   - climate control
   - no sweat
+  - wearable
 categories:
   - products
-  - soft-goods
-  - wearables
-date: 2015-12-22 06:16:00
+  - soft goods
+date: 2015-12-04 15:26:30
 thumbnailImage: vest1-t.jpg
 ---
 # Climate Busting Vest

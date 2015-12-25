@@ -10,16 +10,12 @@ tags:
   - native
   - other
   - tourist
-date: 2015-12-08 00:00:00
+date: 2015-12-25 00:00:00
 ---
-The open source documentation project for information regarding the natural substance: Bamboo Snow
-
-Bamboo Jim Hinds
-Bamboo Can Do, LLC
-December 8, 2015
-
-
 ## Analysis of Saipan Market Potential for Products from Bamboo Snow
+Being part of the open source documentation project for information regarding the natural substance: Bamboo Snow
+<!-- more -->
+
 ### Local Buying Segments and Market Structure
 
 Saipan is a depressed area with limited resources.  Tourism is a major industry.  Fishing and agriculture fill only local markets -- shipping off island is not feasable for perishible goods.  Shipping is very expensive, both to and from Saipan.  A local fish processing plant sits idle.
