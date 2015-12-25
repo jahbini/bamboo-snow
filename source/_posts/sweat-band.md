@@ -1,8 +1,8 @@
-title: sweat-band
-date: 2015-12-24 15:23:39
+title: Sweat Band
+date: 2015-12-12 15:23:39
 categories:
  - products
- - personal
+ - soft goods
 tags:
  - no sweat
 autoThumbnailImage: false

@@ -1,11 +1,10 @@
 title: pillow
 tags:
-  - soft-goods
-  - wearables
+  - personal comfort
 categories:
   - products
-  - soft-goods
-date: 2015-12-24 15:24:47
+  - soft goods
+date: 2015-12-14 15:24:47
 autoThumbnailImage: false
 thumbnailImage: pillow1-t.jpeg
 ---
