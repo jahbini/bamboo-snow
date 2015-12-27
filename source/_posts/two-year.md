@@ -27,7 +27,7 @@ December 2, 2015
 ## Two Years Experience with Bamboo Snow
 ### Rags to Riches, Lemons to Lemonade, Shit to Super Cleanser, Dust to Water Saver, Destruction to Continuation
 *Let me start off with an apology.*
-I am late.  I had given myself a drop-dead, end-of-the-plank ultimatum to have this finished by July 22, 2015.  Unfortunately, I had been given my come-uppance this year by Mother Nature and Uncle Internet.  On my island universe of Saipan, the entire internet was down for three weeks during  July because of a broken underwater fiber-optic cable.  As soon as service was restored, a major storm, Typhoon Soudelar, wiped out water, power and mosst communications over the entire island.  A month or so later, another typhoon blew out my very nice printer.   I’m sorry, Mz Stitt and Mz Eggleston and Mz Loren for not having my assignment done.  I know they are tut-tutting from some celestial pedestal.
+I am late.  I had given myself a drop-dead, end-of-the-plank ultimatum to have this finished by July 22, 2015.  Unfortunately, I had been given my come-uppance this year by Mother Nature and Uncle Internet.  On my island universe of Saipan, the entire internet was down for three weeks during  July because of a broken underwater fiber-optic cable.  As soon as service was restored, a major storm, Typhoon Soudelar, wiped out water, power and most communications over the entire island.  A month or so later, another typhoon blew out my very nice printer.   I’m sorry, Mz Stitt and Mz Eggleston and Mz Loren for not having my assignment done.  I know they are tut-tutting from some celestial pedestal.
 
 *With that said, we start sometime in late June of 2013:*
 My best recollection is that sometime in the very last week of June, let’s say June 25, 2013, I noticed some dust on the floor.
@@ -102,11 +102,11 @@ _Biomass:_ The missing ingredient is orgnic matter — biomass.  nearly anything
 
 *_Safety:_* Bamboo Snow is great and all, fire resistant wall panels, trash management, humidity control, and all the rest, but How Safe Is Bamboo Show?
 
-Let me start with the obvious: do not put it in your eyes or lungs.  Just don’t.  If it gets in your eyes, flush with water. Wear a face mask if you need to.  Occaisional exposure to small quantities do not seem to have lingering effects.  Virgin Bamboo Snow is dust, and behaves just as any finely divided substance.  It is slightly heavier than water, and will clear from the air within a minute or so.
+Let me start with the obvious: do not put it in your eyes or lungs.  Just don’t.  If it gets in your eyes, flush with water. Wear a face mask if you need to.  Occasional exposure to small quantities do not seem to have lingering effects.  Virgin Bamboo Snow is dust, and behaves just as any finely divided substance.  It is slightly heavier than water, and will clear from the air within a minute or so.
 
-Just as obvious, Bamboo Snow is not a sexual lubricant.  Casual contact with Bamboo Snow on these parts during showering is OK, but sex would be very uncomfortable for the man.  Erection may be impossible due to the texture of bamboo snow.
+Just as obvious, Bamboo Snow is not a sexual lubricant.  Casual contact with Bamboo Snow on these parts during showering is OK, but sex would be very uncomfortable for the man.  Erection may be impossible due to the texture of bamboo snow. File this under sexual deterrent.
 
-The historical record is important: Over 1/2 of the human population has lived in bamboo structures for the last several millenium.  These people in Asia, India, Africa and Oceanea do not report any major illnesses from exposure to the natural decay of these structures.  Allergies to bamboo are rare.
+The historical record is important: Over 1/2 of the human population has lived in bamboo structures for the last several millenia.  These people in Asia, India, Africa and Oceanea do not report any major illnesses from exposure to the natural decay of these structures.  Allergies to bamboo are rare.  Billions of people eat with bamboo utensils.
 
 First hand experience with this form of bamboo is limited to my personal experiences of the last two years, when I started to use bamboo snow daily to obtain all the following facts:  Bamboo Snow is tolerated by skin, mucus membranes, hair.  It has no known food value, but small quantities taken orally have no ill effect.  It can be used as a dentifrice. Bamboo snow has a very slightly woody taste, after heating to 240F, it develops a nuttier flavor.
 
