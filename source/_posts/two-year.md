@@ -7,17 +7,20 @@ Tags:
 date: 2015/12/25
 comments: true
 ---
+Being part of the open source documentation project regarding the natural substance: *Bamboo Snow*
+
 A testimonial of observations of the substance Bamboo Snow, the natural decay product of bamboo on the island of Saipan
-
-<!-- excerpt -->
-
-# bamboo-snow
-The open source documentation project for information regarding the natural substance: Bamboo Snow
 
 <!-- more -->
 
+From:
 Bamboo Jim Hinds
 Bamboo Can Do, LLC
+
+To:
+The World
+
+Date:
 December 2, 2015
 
 
@@ -35,9 +38,9 @@ My Grand Experiment was to honor a Mission Statement that I posted on my wall, a
 
 > # The Mission Statement
 > *Goal:* Economic undependance for the CNMI, broad spetrum acceptance of the CNMI as economic, social and political entity
-> 
+>
 > Cultural theme “Where East Meets West”
-> 
+>
 > Bamboo as first vehicle
 > * charcoal
 > * crafts
@@ -151,7 +154,7 @@ Really easy: nature does all the work.
 
 The harvest is continual.  Production rises and peaks with the natural cycles of the insects (mostly the bamboo borer), when the growth spurt from juvenile to adult borer requires them to consume more bamboo.  A forty foot culm, approximetly 5 inches in diameter at the base, will produce more than five gallons of bamboo snow as it decays.
 
-Bamboo Snow is useful.  It is very easy to produce, and can be done wherever bamboo grows.  In some languages, the word for bamboo also means “villlage” — bamboo snow can be made by even the smallest village or cooperative.   The range of finished products that can be produced from this versatile substance is very broad, and each product will take on some of bamboo snow’s unique and useful properties. 
+Bamboo Snow is useful.  It is very easy to produce, and can be done wherever bamboo grows.  In some languages, the word for bamboo also means “villlage” — bamboo snow can be made by even the smallest village or cooperative.   The range of finished products that can be produced from this versatile substance is very broad, and each product will take on some of bamboo snow’s unique and useful properties.
 
 Lastly and most important: to get started with Bamboo Snow, you need no licenses, patents, encumbrances or certifications.  If you have access to a dry, clean area and access to living bamboo, you have all you need.
 

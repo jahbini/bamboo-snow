@@ -10,19 +10,21 @@ tags:
   - native
   - other
   - tourist
-date: 2015-12-25 00:00:00
+date: 2015-12-24 00:00:00
 ---
 ## Analysis of Saipan Market Potential for Products from Bamboo Snow
-Being part of the open source documentation project for information regarding the natural substance: Bamboo Snow
+Being part of the open source documentation project regarding the natural substance: *Bamboo Snow*
 <!-- more -->
 
 ### Local Buying Segments and Market Structure
 
-Saipan is a depressed area with limited resources.  Tourism is a major industry.  Fishing and agriculture fill only local markets -- shipping off island is not feasable for perishible goods.  Shipping is very expensive, both to and from Saipan.  A local fish processing plant sits idle.
+Saipan is a depressed area with limited resources.  Tourism is a major industry.  Fishing and agriculture fill only local markets -- shipping off island is not feasible for perishable goods.  Shipping is very expensive, both to and from Saipan.  A local fish processing plant sits idle.
 
-Saipan has about 40,000 people, and Tinnian and Rota maybe 7,000 more each.  There is NO mail delivery in the CNMI.  No home addresses, no mailbox.  You can't mail a letter to the guy across the street.  No p-mail addresses in the whole island chain.  The newspapers are NOT delivered, but are available in stores, and seldom sell out.
+Saipan has about 40,000 people, and Tinian and Rota maybe 7,000 more each.  There is NO mail delivery in the CNMI.  No home addresses, no mailbox.  You can't mail a letter to the guy across the street.  No p-mail addresses in the whole island chain.  The newspapers are NOT delivered, but are available in stores, and seldom sell out.
 
-Common lines of communication like newspaper ads or US Mail are out. Many people use English as amatuers.
+Advertisement to tourists, however, is a thriving business.
+Common lines of communication like newspaper ads or US Mail are out.
+Many people use English as amateurs.  Tourists and the elderly may not be able to handle more than "good morning", and simple graphic images are more powerful.  Translation of marketing information may be required to reach non-english readers.  Good graphics and translation add to the expense of marketing any product.  Any product to a Saipan market
 
 Demographics:
 
@@ -48,7 +50,7 @@ Camorros started coming back about the time of the Spanish-American war.  They a
 * *Filipinos:* About 15% to 25% are close Filipino relatives of the Chamorros.  Many of these came to Saipan as "guest workers" and chose to stay after the guest worker visa program was shut down by the Federal Government.  Highly religious.
 
 * *Pacific Islanders:* from lots of places -- usually have a few cousins on the island, but don't really call Saipan home:
-  
+
 * *Bangladesh:*  Why there are Bengalis on the island beats me.  They are mostly beach-boys at the Hotels.  Total family population is about 100 to 200 people.
 
 * *Haole:* a few professional and Federal positions are staffed by mainlanders.  Saipan may not attract the best and the brightest.  Military presence is limited.  However, there are always five or six large freighters anchored outside the reef: all filled with Uncle Sam's war toys, ready to deploy to "hot spots."  Crews and technicians shuffle on and off the island constantly.
