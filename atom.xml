@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Bamboo Snow]]></title>
   <subtitle><![CDATA[The Great Gift from Nature]]></subtitle>
-  <link href="/bamboo-snow/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   <link href="http://bamboosnow.com/"/>
   <updated>2015-12-25T20:17:24.000Z</updated>
   <id>http://bamboosnow.com/</id>
