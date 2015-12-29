@@ -5,8 +5,13 @@ tags:
 categories:
  - products
  - soft goods
+
+autoThumbnailImage: false
+thumbnailImage: interviewee.jpg
 ---
 Important Meeting?  Sweating Palms?
+<!-- more -->
+{% image palms fancybox right interviewee.jpg "Will I make a bad impression?" %}
 
 Check out: [Sweaty Handshake](http://sweatyhandshake.com)
 
