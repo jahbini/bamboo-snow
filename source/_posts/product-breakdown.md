@@ -14,7 +14,7 @@ These are mostly unbranded products, but prototypes for further marketing.  Prod
 # Products listed in increasing manufacturing cost
 
 ### Unprocessed
-* *Composter:* [Odor Free Compost.](/products/raw/compost) Soil amendment, too. 
+* *Composter:* [Odor Free Compost.](/products/raw/compost) Soil amendment, too.
 * *Oil Spill:* [Sweeping Compound.](/products/raw/sweep) Clean and dry your floor in a jiffy.
 
 ### Sifted
@@ -35,11 +35,7 @@ These are mostly unbranded products, but prototypes for further marketing.  Prod
 ### Sewn goods
 * *Sweat Band:* [more like no-sweat band](/products/soft-goods/sweat-band)
 * *Vest:* [Personal Climate Control](/products/soft-goods/vest)
-* *Pillow:* [Multi Use Traveler's mat](/products/soft-goods/pillow)
+* *Pillow:* [Multi Use Traveler's Mat](/products/soft-goods/pillow)
 
 ### experimental and potential
 Potential areas for possible uses [Research areas](/potential)
-
-
-
-
