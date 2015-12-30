@@ -1,4 +1,4 @@
-title: dish-cleaner
+title: Dish Cleaning Powder
 tags:
   - cleaning
 categories:
@@ -17,5 +17,3 @@ pictures here:
 2. Use a spray bottle to dampen the surface.  One squirt.
 3. Take mixture of "dish-cleaner" (16 to 32 ounces of bamboo snow mixed with 1 ounce common dishwashing soap) and apply with a brush.
 4. Rinse with the spray bottle: it only takes a few squirts to rinse all the bamboo snow away.
-
-
