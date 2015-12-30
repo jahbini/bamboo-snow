@@ -1,14 +1,19 @@
-title: shower-scrub
+title: Shower Scrub
 tags:
   - household
-  - personal
   - cleaning
 categories:
   - products
+  - personal
 date: 2015-12-4 15:25:44
+autoThumbnailImage: false
+thumbnailImage: shower.jpg
 ---
 This is on my **Must Have** List for daily use!
-<!-- excerpt -->
+<!-- more -->
+{% image shower right fancybox shower.jpg "Scub-a-dub clean" %}
+
+I have used bamboo snow for two full years:  I have personally verified that bamboo snow is compatible with skin.  Every part.  Yes, that too.
 
 Bamboo Snow mixes with liquid shower soap to make a very effective face and body scrub.  It cleans away dead skin with ease and rinses thoroughly.
 

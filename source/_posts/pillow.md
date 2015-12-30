@@ -1,4 +1,4 @@
-title: pillow
+title: Traveler's Mat and Pillow
 tags:
   - personal comfort
 categories:
@@ -8,7 +8,7 @@ date: 2015-12-14 15:24:47
 autoThumbnailImage: false
 thumbnailImage: pillow1-t.jpeg
 ---
-This travelers pillow has many uses.
+This traveler's mat has many uses.
 <!-- more -->
 {% image pillow2 right fancybox pillow2.jpeg pillow2-t.jpeg "Rolled up, your best friend during flights" %}
 Rolled up it makes a neck pillow for waiting between flights.  It makes a great ironing surface to keep your clothes neat while traveling.
