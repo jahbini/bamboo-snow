@@ -374,19 +374,21 @@ module.exports = StoryBarController = (function(_super) {
 });
 
 ;require.register("generated/all-posts.js", function(exports, require, module) {
-module.exports = [{"debug":"","className":"Story","created":"2011-03-18 15:48:28","lastEdited":"2011-03-18 16:01:59","title":"Aloha 'Oe to Something","published":"2011-03-18 16:01:59","embargo":"2011-03-18 16:01:59","category":"island-life/honolulu","slug":"aloha-oe-to-something","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":[],"siteHandle":"stjohnsjim","headlines":["What Have We Lost? Really","Did We Ever Get It Right?","Memories Are Today's Myth","Honolulu Ghosts"]},{"debug":"","className":"Story","created":"2010-10-03 16:18:48","lastEdited":"2010-10-03 17:41:29","title":"Catchy Slogan Sunday","published":"2010-10-03 17:41:29","embargo":"2010-10-03 17:41:29","category":"st-johns","slug":"catchy-slogan-sunday","headlines":["Wherin We Meet Bambi Brew"],"snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["GUNAS","PDX"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2011-06-07 13:42:29","lastEdited":"2011-06-07 17:17:07","title":"Coala: Harbor Cat","published":"2011-06-07 17:17:07","embargo":"2011-06-07 17:17:07","headlines":["Confrontations with Sea Deamons!","Cats Adrift!","Dead Cat Tells All!"],"category":"california","slug":"coala-harbor-cat","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["GUNAS"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2010-12-01 17:23:35","lastEdited":"2010-12-01 18:04:05","title":"Corporate Punishment is Your Path to Financial Security","published":"2010-12-01 18:04:05","embargo":"2010-12-01 18:04:05","headlines":["Good Times in the Slammer!","Don't Think of it as Prison, but...","Serving Your Employers, Not Just Serving Time","We Pay Your Bodyguard Well!"],"category":"story","slug":"corporate-punishment-is-your-path-to-financial-security","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["TAROT"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2010-11-12 16:53:25","lastEdited":"2010-11-12 18:04:12","title":"Deadwood?","published":"2010-11-12 18:04:12","embargo":"2010-11-12 18:04:12","category":"almost-history","headlines":["The Scout and The Colonel","Legend of the Old West"],"slug":"deadwood","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"siteHandle":"stjohnsjim"},{"debug":"","title":"Good News Bad News","slug":"good-news-bad-news","created":"2015-12-02T05:26:30.000Z","lastEdited":"2016-03-17","published":"2016-01-01","embargo":"2016-01-01","archive":"2016-01-01","category":"announcement","categories":["general"],"date":"2015-12-31T22:51:40.000Z","priority":2000,"tags":null,"siteHandle":"bamboosnow","headlines":["Insane Inventor Finds Greatest Boon in Dust","Saipan Scientist Proves Everything He Knew was Wrong!","Bamboo Snow is Purified Bamboo!"]},{"debug":"marked","className":"Story","created":"2016-03-11 12:40:04","lastEdited":"2016-03-11 14:20:28","title":"Bamboo Snow Starts Here","embargo":"2016-03-11 12:40:04","category":"/","slug":"index","siteHandle":"bamboosnow","domain":"bamboosnow.com","headlines":["Inventor Discovers Miracle Substance","Dust Farmer Tells All","Better Hygiene With Bamboo Snow","A Discovery that Slept for a Million Years"],"hVersion":0.1,"memberOf":[],"snippets":{},"scriptango":"Let us see\n if this gets through\n  any format stuff\n  and if #@$ special chars are a prob\n"},{"debug":"","className":"Story","created":"2016-03-11 12:40:04","lastEdited":"2016-03-11 14:20:28","title":"Grand Visions from the 'Puter of St. John's Jim","published":"2016-03-11 12:40:04","headlines":["Visions of Beauty Obscured","The Most Beautiful Bridge, But?!?!","Hookers Hook in the Great Northwest!","Tales from Pre-legalization!"],"category":"/","slug":"index","siteHandle":"stjohnsjim","domain":"stjohnsjim.com","hVersion":0.1,"memberOf":[],"snippets":{},"embargo":"2016-03-11 12:40:04"},{"debug":"","title":"New Look!","slug":"new-look","created":"2016-04-08","lastEdited":"2016-04-06","published":"2016-04-06","embargo":"2013-04-06","category":"announcement","className":"Story","siteHandle":"stjohnsjim","headlines":["New Presses Roll on St John's Jim Stories!","Stories of The Bizarre and Normal: Portland, Saipan and elsewhere"]},{"debug":"","title":"The Big Picture","slug":"the-big-picture","date":"2016-01-03T22:33:13.000Z","created":"2015-12-02T05:26:30.000Z","lastEdited":"2016-03-17","published":"2015-12-31","embargo":"2015-12-31","headlines":["A Rising Tide Lifts All boats","Nature is the source of all abundance","A new natural resource to lift our boats","Many Uses, Many Opportunities"],"category":"announcement","siteHandle":"bamboosnow"},{"debug":"","className":"Story","created":"2011-08-05 18:38:57","lastEdited":"2016-04-15","embargo":"2016-04-15","title":"The Great Aerial Tram Station","published":"2011-08-05 18:54:38","tagList":"Pathy, Winnie, Daough Sisters, aerial tram, portland, st. john's, Leo, Station, Portland's Malibu","category":"st-johns/baltimore-wood","slug":"the-great-aerial-tram-station","headlines":["Leo and Station's Very Odd Internet School","Treetop Transportation from Recycled Materials"],"snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["TAO"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2010-12-28 21:35:15","lastEdited":"2011-11-09 10:24:21","title":"The Norse Psychologist Files on Thor","published":"2010-12-28 22:08:13","embargo":"2010-12-28 22:08:13","category":"almost-history","slug":"the-norse-psychologist-files-on-thor","headlines":["Could The End Times be This Bizarre?","Modern Psychology for the Elder Gods","Thor's HIPAA Account Cracked!"],"snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["TAROT"],"siteHandle":"stjohnsjim"},{"debug":"","title":"Two Years with Bamboo Snow","slug":"two-years-with-bamboo-snow","created":"2015-12-25T00:00:00.000Z","lastEdited":"2016-03-17","published":"2015-12-31","embargo":"2015-12-31","category":"announcement","headlines":["The Most Import Announcement in 100,000 Years"],"categories":["announcement"],"Tags":["testimonial","economic impact"],"priority":1000,"comments":true,"siteHandle":"bamboosnow"}];
+module.exports = [{"debug":"","className":"Story","created":"2011-03-18 15:48:28","lastEdited":"2011-03-18 16:01:59","title":"Aloha 'Oe to Something","published":"2011-03-18 16:01:59","embargo":"2011-03-18 16:01:59","category":"island-life/honolulu","slug":"aloha-oe-to-something","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":[],"siteHandle":"stjohnsjim","headlines":["What Have We Lost? Really","Did We Ever Get It Right?","Memories Are Today's Myth","Honolulu Ghosts"]},{"debug":"","className":"Story","created":"2010-10-03 16:18:48","lastEdited":"2010-10-03 17:41:29","title":"Catchy Slogan Sunday","published":"2010-10-03 17:41:29","embargo":"2010-10-03 17:41:29","category":"st-johns","slug":"catchy-slogan-sunday","headlines":["Wherin We Meet Bambi Brew"],"snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["GUNAS","PDX"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2011-06-07 13:42:29","lastEdited":"2011-06-07 17:17:07","title":"Coala: Harbor Cat","published":"2011-06-07 17:17:07","embargo":"2011-06-07 17:17:07","headlines":["Confrontations with Sea Deamons!","Cats Adrift!","Dead Cat Tells All!"],"category":"california","slug":"coala-harbor-cat","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["GUNAS"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2010-12-01 17:23:35","lastEdited":"2010-12-01 18:04:05","title":"Corporate Punishment is Your Path to Financial Security","published":"2010-12-01 18:04:05","embargo":"2010-12-01 18:04:05","headlines":["Good Times in the Slammer!","Don't Think of it as Prison, but...","Serving Your Employers, Not Just Serving Time","We Pay Your Bodyguard Well!"],"category":"story","slug":"corporate-punishment-is-your-path-to-financial-security","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["TAROT"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2010-11-12 16:53:25","lastEdited":"2010-11-12 18:04:12","title":"Deadwood?","published":"2010-11-12 18:04:12","embargo":"2010-11-12 18:04:12","category":"almost-history","headlines":["The Scout and The Colonel","Legend of the Old West"],"slug":"deadwood","snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"siteHandle":"stjohnsjim"},{"debug":"","title":"Good News Bad News","slug":"good-news-bad-news","created":"2015-12-02T05:26:30.000Z","lastEdited":"2016-03-17","published":"2016-01-01","embargo":"2016-01-01","archive":"2016-01-01","category":"announcement","categories":["general"],"date":"2015-12-31T22:51:40.000Z","priority":2000,"tags":null,"siteHandle":"bamboosnow","headlines":["Insane Inventor Finds Greatest Boon in Dust","Saipan Scientist Proves Everything He Knew was Wrong!","Bamboo Snow is Purified Bamboo!"]},{"debug":"marked","className":"Story","created":"2016-03-11 12:40:04","lastEdited":"2016-03-11 14:20:28","title":"Bamboo Snow Starts Here","embargo":"2016-03-11 12:40:04","category":"/","slug":"index","siteHandle":"bamboosnow","domain":"bamboosnow.com","headlines":["Inventor Discovers Miracle Substance","Dust Farmer Tells All","Better Hygiene With Bamboo Snow","A Discovery that Slept for a Million Years"],"hVersion":0.1,"memberOf":[],"snippets":{}},{"debug":"","className":"Story","created":"2016-03-11 12:40:04","lastEdited":"2016-03-11 14:20:28","title":"Grand Visions from the 'Puter of St. John's Jim","published":"2016-03-11 12:40:04","headlines":["Visions of Beauty Obscured","The Most Beautiful Bridge, But?!?!","Hookers Hook in the Great Northwest!","Tales from Pre-legalization!"],"category":"/","slug":"index","siteHandle":"stjohnsjim","domain":"stjohnsjim.com","hVersion":0.1,"memberOf":[],"snippets":{},"embargo":"2016-03-11 12:40:04"},{"debug":"","title":"New Look!","slug":"new-look","created":"2016-04-08","lastEdited":"2016-04-06","published":"2016-04-06","embargo":"2016-04-06","category":"announcement","className":"Story","siteHandle":"stjohnsjim","headlines":["New Presses Roll on St John's Jim Stories!","Stories of The Bizarre and Normal: Portland, Saipan and elsewhere"]},{"debug":"","title":"Sweeping Compound","slug":"sweeping-compound","created":"2015-12-02T05:26:30.000Z","lastEdited":"2016-03-17","published":"2015-12-31","embargo":"2015-12-31","category":"products/industrial","categories":["products","raw"],"tags":["oil spill","floor cleaner","sweeping compound"],"headlines":["Sweep Away Messes without Water","Tames the Messiest Spills","Clean Up That Garage Floor!"],"siteHandle":"bamboosnow"},{"debug":"","title":"The Big Picture","slug":"the-big-picture","date":"2016-01-03T22:33:13.000Z","created":"2015-12-02T05:26:30.000Z","lastEdited":"2016-03-17","published":"2015-12-31","embargo":"2015-12-31","headlines":["A Rising Tide Lifts All boats","Nature is the source of all abundance","A new natural resource to lift our boats","Many Uses, Many Opportunities"],"category":"announcement","siteHandle":"bamboosnow"},{"debug":"","className":"Story","created":"2011-08-05 18:38:57","lastEdited":"2016-04-15","embargo":"2016-04-15","title":"The Great Aerial Tram Station","published":"2011-08-05 18:54:38","tagList":"Pathy, Winnie, Daough Sisters, aerial tram, portland, st. john's, Leo, Station, Portland's Malibu","category":"st-johns/baltimore-wood","slug":"the-great-aerial-tram-station","headlines":["Leo and Station's Very Odd Internet School","Treetop Transportation from Recycled Materials"],"snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["TAO"],"siteHandle":"stjohnsjim"},{"debug":"","className":"Story","created":"2010-12-28 21:35:15","lastEdited":"2011-11-09 10:24:21","title":"The Norse Psychologist Files on Thor","published":"2010-12-28 22:08:13","embargo":"2010-12-28 22:08:13","category":"almost-history","slug":"the-norse-psychologist-files-on-thor","headlines":["Could The End Times be This Bizarre?","Modern Psychology for the Elder Gods","Thor's HIPAA Account Cracked!"],"snippets":{},"domain":"stjohnsjim.com","hVersion":0.1,"memberOf":["TAROT"],"siteHandle":"stjohnsjim"},{"debug":"","title":"Two Years with Bamboo Snow","slug":"two-years-with-bamboo-snow","created":"2015-12-25T00:00:00.000Z","lastEdited":"2016-03-17","published":"2015-12-31","embargo":"2015-12-31","category":"announcement","headlines":["The Most Import Announcement in 100,000 Years"],"categories":["announcement"],"Tags":["testimonial","economic impact"],"priority":1000,"comments":true,"siteHandle":"bamboosnow"}];
 });
 
 require.register("generated/sites.js", function(exports, require, module) {
-module.exports = {"bamboosnow":{"author":"James A. Hinds: Bubba Baba Bamboo Jim","description":"All that is known about Bamboo Snow","title":"Bamboo Snow: The Amazing Substance","keywords":"bamboo snow,dinoderus minutus,absorbant,dessicant,organic,bamboo byproduct,bamboo","lurl":"bamboosnow.com","template":{}},"stjohnsjim":{"author":"James A. Hinds: St. John's Jim","title":"Stories from the 'Puter of St. John's Jim","description":"Stories from the 'Puter of St. John's Jim","lurl":"stjohnsjim.com","keywords":"Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns","template":{}}};
+module.exports = {"bamboosnow":{"author":"James A. Hinds: Bubba Baba Bamboo Jim","description":"All that is known about Bamboo Snow","title":"Bamboo Snow: The Amazing Substance","keywords":"bamboo snow,dinoderus minutus,absorbant,dessicant,organic,bamboo byproduct,bamboo","rsyncDestination":"stjohnsjim@stjohnsjim.com:bamboosnow.com","port":3131,"lurl":"0.0.0.0","template":{}},"stjohnsjim":{"author":"James A. Hinds: St. John's Jim","title":"Stories from the 'Puter of St. John's Jim","description":"Stories from the 'Puter of St. John's Jim","lurl":"stjohnsjim.com","keywords":"Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns","rsyncDestination":"stjohnsjim@stjohnsjim.com:stjohnsjim.com","template":{}}};
 });
 
 require.register("initialize.coffee", function(exports, require, module) {
-var Application, routes;
+var Application, FontFaceObserver, routes;
 
 Application = require('app');
 
 routes = require('routes');
+
+FontFaceObserver = require('font-face-observer');
 
 $(function() {
   var app;
@@ -974,7 +976,7 @@ T = require('teacup');
 
 B = require('backbone');
 
-Template = require("" + siteHandle + "/brunch-payload-/" + siteHandle);
+Template = require("payload-/" + siteHandle);
 
 template = new Template;
 
@@ -995,7 +997,7 @@ module.exports = StoryBarView = (function(_super) {
     StoryBarView.__super__.constructor.apply(this, arguments);
   }
 
-  StoryBarView.prototype.el = "#rightbar";
+  StoryBarView.prototype.el = "#sidebar";
 
   StoryBarView.prototype.getTemplateData = function() {
     var intermediate, stuff;
@@ -1011,7 +1013,7 @@ module.exports = StoryBarView = (function(_super) {
   StoryBarView.prototype.getTemplateFunction = function() {
     return T.renderable(function(data) {
       template.widgetWrap({
-        title: "Stories"
+        title: "Contents"
       }, function() {
         return data.each(function(allCrap, category, stuff) {
           var catPostfix, catPrefix, headliner, stories,
@@ -1028,20 +1030,20 @@ module.exports = StoryBarView = (function(_super) {
             return 'category' === story.get('className');
           });
           if (headliner) {
-            T.h4(function() {
+            T.h3(".category", function() {
               T.text("" + category + ": ");
               return T.em(".h4", _.sample(headliner.get('headlines')));
             });
           } else {
-            T.h5("" + catPrefix + " " + catPostfix);
+            T.h3(".category", "" + catPrefix + " " + catPostfix);
           }
-          T.ul(function() {
+          T.ul(".category.pr1", function() {
             return _(stuff[category]).each(function(story) {
               if ('category' === story.get('className')) {
                 return;
               }
-              return T.li(".b1", function() {
-                return T.a(".goto.h5", {
+              return T.li(".category.b1", function() {
+                return T.a(".goto.h3.category", {
                   href: siteHandle === story.get('siteHandle') ? story.href() : story.href(story.get('siteHandle'))
                 }, "" + (story.get('title')));
               });
@@ -1090,9 +1092,7 @@ module.exports = SidebarStoryView = (function(_super) {
   SidebarStoryView.prototype.getTemplateFunction = function() {
     var _this = this;
     return function(data) {
-      debugger;
       return function(a, b, c) {
-        debugger;
         var V, badClass, badHeadline, story;
         story = null;
         while (!story) {
@@ -1112,8 +1112,8 @@ module.exports = SidebarStoryView = (function(_super) {
             href: siteHandle === story.get('siteHandle') ? story.href() : story.href(story.get('siteHandle'))
           }, function() {
             return T.div(".b1.bg-silver.bg-darken-3.mb1.ml2.border.rounded.p1", function() {
-              T.h5("From around the Web:");
-              return T.h6("" + (story.get('title')) + ": " + (_.sample(story.get('headlines'))));
+              T.h4(".adv-head", "From around the Web:");
+              return T.h6(".adv-text", "" + (story.get('title')) + ": " + (_.sample(story.get('headlines'))));
             });
           });
         });
@@ -1126,16 +1126,53 @@ module.exports = SidebarStoryView = (function(_super) {
 })(Chaplin.View);
 });
 
-;require.register("bamboosnow/brunch-payload-/bamboosnow.coffee", function(exports, require, module) {
+;require.register("payload-/bamboosnow.coffee", function(exports, require, module) {
 /*
 styling: "Lookand Feel"
 */
 
-var BamboosnowLook, a, article, aside, base, blockquote, body, br, button, comment, div, doctype, em, footer, form, h1, h2, h3, h4, h5, h6, head, header, headerLogoNav, hr, html, input, li, link, meta, nav, normalizeArgs, p, raw, render, renderable, script, section, span, strong, tag, text, time, title, ul, _ref;
+var BamboosnowLook, a, article, aside, badDog2, base, blockquote, body, br, button, comment, div, doctype, em, footer, form, h1, h2, h3, h4, h5, h6, head, header, headerLogoNav, hr, html, img, input, li, link, meta, myfooter, nav, normalizeArgs, p, raw, render, renderable, script, section, span, strong, tag, text, time, title, ul, _ref;
 
-_ref = require("teacup"), normalizeArgs = _ref.normalizeArgs, render = _ref.render, doctype = _ref.doctype, html = _ref.html, title = _ref.title, meta = _ref.meta, base = _ref.base, link = _ref.link, script = _ref.script, body = _ref.body, header = _ref.header, raw = _ref.raw, section = _ref.section, p = _ref.p, text = _ref.text, em = _ref.em, ul = _ref.ul, li = _ref.li, strong = _ref.strong, hr = _ref.hr, comment = _ref.comment, div = _ref.div, a = _ref.a, span = _ref.span, h1 = _ref.h1, h2 = _ref.h2, h3 = _ref.h3, h4 = _ref.h4, h5 = _ref.h5, h6 = _ref.h6, head = _ref.head, renderable = _ref.renderable, blockquote = _ref.blockquote, nav = _ref.nav, form = _ref.form, input = _ref.input, button = _ref.button, aside = _ref.aside, br = _ref.br, time = _ref.time, tag = _ref.tag, article = _ref.article, footer = _ref.footer;
+_ref = require("teacup"), img = _ref.img, normalizeArgs = _ref.normalizeArgs, render = _ref.render, doctype = _ref.doctype, html = _ref.html, title = _ref.title, meta = _ref.meta, base = _ref.base, link = _ref.link, script = _ref.script, body = _ref.body, header = _ref.header, raw = _ref.raw, section = _ref.section, p = _ref.p, text = _ref.text, em = _ref.em, ul = _ref.ul, li = _ref.li, strong = _ref.strong, hr = _ref.hr, comment = _ref.comment, div = _ref.div, a = _ref.a, span = _ref.span, h1 = _ref.h1, h2 = _ref.h2, h3 = _ref.h3, h4 = _ref.h4, h5 = _ref.h5, h6 = _ref.h6, head = _ref.head, renderable = _ref.renderable, blockquote = _ref.blockquote, nav = _ref.nav, form = _ref.form, input = _ref.input, button = _ref.button, aside = _ref.aside, br = _ref.br, time = _ref.time, tag = _ref.tag, article = _ref.article, footer = _ref.footer;
+
+try {
+  $(function() {
+    var FontFaceObserver, observeTeamSpirit, observeVastShadow, observeVidaLoca;
+    FontFaceObserver = require('font-face-observer');
+    observeTeamSpirit = new FontFaceObserver("TeamSpirit", {
+      weight: 400
+    });
+    observeTeamSpirit.check(null, 10000).then(function() {
+      return document.documentElement.className += " team-spirit-loaded";
+    }, function() {
+      return alert("TeamSpirit Font Problem?!");
+    });
+    observeVidaLoca = new FontFaceObserver("vidaloka", {
+      weight: 400
+    });
+    observeVidaLoca.check(null, 10000).then(function() {
+      return document.documentElement.className += " vidaloka-loaded";
+    }, function() {
+      return alert("Vida Loka Font Problem?!");
+    });
+    observeVastShadow = new FontFaceObserver("vastshadow", {
+      weight: 400
+    });
+    return observeVastShadow.check(null, 10000).then(function() {
+      return document.documentElement.className += " vastshadow-loaded";
+    }, function() {
+      return alert("vastshadow Font Problem?!");
+    });
+  });
+} catch (_error) {
+  badDog2 = _error;
+  console.log("Font Loader Error");
+  console.log(badDog2);
+}
 
 headerLogoNav = require('./header-logo-nav');
+
+myfooter = require('./footer');
 
 module.exports = BamboosnowLook = (function() {
   function BamboosnowLook() {}
@@ -1153,8 +1190,10 @@ module.exports = BamboosnowLook = (function() {
       attrs["class"] = ["widget-wrap"];
     }
     return div(attrs, function() {
-      h3(".widget-title", title);
-      return div(".widget", contents);
+      if (!!title) {
+        h3(".widget-title.white", title);
+      }
+      return div(".widget.white", contents);
     });
   };
 
@@ -1162,37 +1201,55 @@ module.exports = BamboosnowLook = (function() {
     var options;
     options = story.attributes;
     comment("\nThe Body\n");
-    return body("#body.enclosing", function() {
-      div("#head", function() {
-        return headerLogoNav(story);
-      });
-      comment("\nThe Main template\n");
-      div("#main.wrapper.mxn2", {
-        "data-behavior": "1"
+    return body(function() {
+      div('.flex.flex-column', {
+        style: 'min-height:100vh'
       }, function() {
-        div("#storybar.p2.border-left.right", {
-          width: "15em"
-        }, function() {
-          return raw("&nbsp;");
+        header('.center.flex-wrap.p2.border-bottom.bg-darken-4', function() {
+          return a({
+            href: '//bamboosnow.com',
+            target: '_blank'
+          }, function() {
+            return h1('.white', 'Bamboo Snow -- Multi-Purpose Boon for the World');
+          });
         });
-        return div(".with-columns.p3.bg-white", {
-          width: "70%"
-        }, function() {
-          div("#content.p2.justify", function() {
-            h4(options.title);
-            hr;
+        div('.flex-auto.md-flex', function() {
+          tag("main", '#storybar.flex-auto.order-1.with-columns.p2.bg-lighten-4', function() {
+            h1(options.title);
+            hr();
             return raw(story.tmp.cooked || story.get("final"));
           });
-          comment("\nRightbar");
-          return div("#rightbar.p2", function() {
-            return a({
-              href: 'showit'
-            }, "this is contents of rightbar");
+          nav('#sidebar.order-0.bg-darken-2.flex-auto.col-3', {
+            style: 'min-width:22rem'
+          }, function() {
+            h1("Sidebar");
+            return p('Sidebar');
           });
+          if (false) {
+            return aside('#sidebar2.p2.border-left.order-3.col-2', {
+              style: 'min-width:8rem'
+            }, function() {
+              h1("Sidebar2");
+              return p('Sidebar2');
+            });
+          }
         });
-      });
-      tag('footer', {
-        "data-id": "footer"
+        return footer('.p2.border-top.bg-silver', function() {
+          h2('.center.m0', 'All contents copyright 2015, James A. Hinds');
+          div('.center', function() {
+            img('.circle', {
+              src: 'http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d'
+            });
+            br();
+            return text('AKA Bamboo Jim');
+          });
+          h4('.center.m0', 'The ideas are yours to keep and share, the wording is mine.');
+          br();
+          return a({
+            href: 'http://basscss.com/',
+            target: '_blank'
+          }, 'CSS -- BassCss.com');
+        });
       });
       return div("#cover", {
         style: "background-image:url('/images/cover.jpg');"
@@ -1205,7 +1262,7 @@ module.exports = BamboosnowLook = (function() {
 })();
 });
 
-;require.register("bamboosnow/brunch-payload-/baranquillo/about.js", function(exports, require, module) {
+;require.register("payload-/baranquillo/about.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -1315,7 +1372,7 @@ module.exports = BamboosnowLook = (function() {
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/archives-filter.js", function(exports, require, module) {
+require.register("payload-/baranquillo/archives-filter.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -1464,7 +1521,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/archives-filter.js", fu
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/categories-filter.js", function(exports, require, module) {
+require.register("payload-/baranquillo/categories-filter.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -1615,7 +1672,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/categories-filter.js", 
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/fancybox.js", function(exports, require, module) {
+require.register("payload-/baranquillo/fancybox.js", function(exports, require, module) {
 +function($) {
 
     // Run fancybox feature
@@ -1650,7 +1707,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/fancybox.js", function(
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/header.js", function(exports, require, module) {
+require.register("payload-/baranquillo/header.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -1726,7 +1783,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/header.js", function(ex
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/image-gallery.js", function(exports, require, module) {
+require.register("payload-/baranquillo/image-gallery.js", function(exports, require, module) {
 +function($) {
     'use strict'
 
@@ -1832,7 +1889,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/image-gallery.js", func
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/post-bottom-bar.js", function(exports, require, module) {
+require.register("payload-/baranquillo/post-bottom-bar.js", function(exports, require, module) {
 +function($) {
     'use strict'
 
@@ -1898,7 +1955,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/post-bottom-bar.js", fu
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/share-options.js", function(exports, require, module) {
+require.register("payload-/baranquillo/share-options.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -1984,7 +2041,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/share-options.js", func
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/sidebar.js", function(exports, require, module) {
+require.register("payload-/baranquillo/sidebar.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -2149,7 +2206,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/sidebar.js", function(e
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/smartresize.js", function(exports, require, module) {
+require.register("payload-/baranquillo/smartresize.js", function(exports, require, module) {
 +(function($, sr) {
 
     // debouncing function from John Hann
@@ -2184,7 +2241,7 @@ require.register("bamboosnow/brunch-payload-/baranquillo/smartresize.js", functi
 })(jQuery, 'smartresize');
 });
 
-require.register("bamboosnow/brunch-payload-/baranquillo/tags-filter.js", function(exports, require, module) {
+require.register("payload-/baranquillo/tags-filter.js", function(exports, require, module) {
 +function($) {
     'use strict';
 
@@ -2316,25 +2373,27 @@ require.register("bamboosnow/brunch-payload-/baranquillo/tags-filter.js", functi
 }(jQuery);
 });
 
-require.register("bamboosnow/brunch-payload-/footer.coffee", function(exports, require, module) {
+require.register("payload-/footer.coffee", function(exports, require, module) {
 /*
 styling: "skeleton"
 _options:
 */
 
-var a, base, body, comment, div, doctype, footer, h1, h2, h3, h4, h5, h6, head, header, html, link, meta, raw, renderable, script, section, span, tag, title, _ref;
+var a, base, body, comment, div, doctype, footer, h1, h2, h3, h4, h5, h6, head, header, html, link, meta, p, raw, renderable, script, section, span, tag, title, _ref;
 
-_ref = require("teacup"), doctype = _ref.doctype, html = _ref.html, title = _ref.title, meta = _ref.meta, base = _ref.base, link = _ref.link, script = _ref.script, body = _ref.body, header = _ref.header, raw = _ref.raw, section = _ref.section, comment = _ref.comment, div = _ref.div, a = _ref.a, span = _ref.span, h1 = _ref.h1, h2 = _ref.h2, h3 = _ref.h3, h4 = _ref.h4, h5 = _ref.h5, h6 = _ref.h6, head = _ref.head, renderable = _ref.renderable, tag = _ref.tag, footer = _ref.footer;
+_ref = require("teacup"), doctype = _ref.doctype, html = _ref.html, title = _ref.title, meta = _ref.meta, base = _ref.base, link = _ref.link, script = _ref.script, body = _ref.body, header = _ref.header, raw = _ref.raw, section = _ref.section, comment = _ref.comment, div = _ref.div, a = _ref.a, span = _ref.span, h1 = _ref.h1, h2 = _ref.h2, h3 = _ref.h3, h4 = _ref.h4, h5 = _ref.h5, h6 = _ref.h6, head = _ref.head, renderable = _ref.renderable, p = _ref.p, tag = _ref.tag, footer = _ref.footer;
 
 module.exports = renderable(function(story) {
   var options;
   options = story.attributes;
-  debugger;
-  return h2("goodstuff from Footer!");
+  return footer("#footer.main-content-wrap.bg-white", function() {
+    h2("All contents copyright 2015, James A. Hinds");
+    return p("The ideas are yours to keep and share, the wording is mine.");
+  });
 });
 });
 
-;require.register("bamboosnow/brunch-payload-/header-logo-nav.coffee", function(exports, require, module) {
+;require.register("payload-/header-logo-nav.coffee", function(exports, require, module) {
 /*
 styling: "skeleton"
 _options:
@@ -2348,7 +2407,7 @@ module.exports = renderable(function(story) {
   var options, siteHandle;
   options = story.attributes;
   siteHandle = story.get('siteHandle');
-  header("#header", {
+  return header("#header", {
     "data-behavior": "1"
   }, function() {
     i("#btn-open-sidebar.fa.fa-lg.fa-bars");
@@ -2362,47 +2421,6 @@ module.exports = renderable(function(story) {
     }, function() {
       return img(".header-picture", {
         src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
-      });
-    });
-  });
-  return nav('#sidebar', {
-    "data-behavior": '1'
-  }, function() {
-    div('.sidebar-profile', function() {
-      a({
-        href: '/#about'
-      }, function() {
-        return img('.sidebar-profile-picture', {
-          src: 'http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=110'
-        });
-      });
-      return span('.sidebar-profile-name', 'James A. Hinds (Bamboo Jim)');
-    });
-    return ul('.sidebar-buttons', function() {
-      li('.sidebar-button', function() {
-        return a('.sidebar-button-link.', {
-          href: '/'
-        }, function() {
-          i('.sidebar-button-icon.fa fa-lg fa-home');
-          return span('.sidebar-button-desc', 'Home');
-        });
-      });
-      li('.sidebar-button', function() {
-        return a('.sidebar-button-link.', {
-          href: '/#about'
-        }, function() {
-          i('.sidebar-button-icon.fa fa-lg fa-question');
-          return span('.sidebar-button-desc', 'About');
-        });
-      });
-      return li('.sidebar-button', function() {
-        return a('.sidebar-button-link.', {
-          href: 'https://facebook.com/BambooCanDo',
-          target: '_blank'
-        }, function() {
-          i('.sidebar-button-icon.fa fa-lg fa-facebook');
-          return span('.sidebar-button-desc', 'Facebook');
-        });
       });
     });
   });
